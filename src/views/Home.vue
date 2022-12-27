@@ -1,13 +1,13 @@
 <script setup lang="ts">
 let carouselItems = [
   {
-    src: "/img/test.jpg",
+    src: "./img/test.jpg",
   },
   {
-    src: "/img/test2.jpg",
+    src: "./img/test2.jpg",
   },
   {
-    src: "/img/test3.jpg",
+    src: "./img/test3.jpg",
   }
 ];
 </script>
